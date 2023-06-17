@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://api.cicle.app/api/v1'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYzOTJlN2Q3MDllY2NmOWQwMzI0ZGY2OSIsImdvb2dsZUlkIjoiMTAwOTU2OTAwNTgzNTU5ODkxMjU1IiwiZW1haWwiOiJuaW5hbWFydGlsYTAzQGdtYWlsLmNvbSIsImZ1bGxOYW1lIjoiTmluYSBNYXJ0aWxhX1BRQTE3IiwicGhvdG9VcmwiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BRWRGVHA1cnpHSk9EakNsa0NPYTc0VGRkQmVDTjVGY3E4dzVWVDFSblI0Qz1zOTYtYyIsImJpbyI6IkZpZ2h0aW5nIiwic3RhdHVzIjoiRDMtVGVrbmlrIEluZm9ybWF0aWthIiwiZGVmYXVsdENvbXBhbnkiOnsiX2lkIjoiNWY4NDAyZmNmNGNjODY0ZTNhZGRhYzc3In0sImNyZWF0ZWRBdCI6IjIwMjItMTItMDlUMDc6NDY6MzEuMzMyWiIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTZUMDI6MDM6MTIuMjQzWiIsIl9fdiI6MH0sImlhdCI6MTY4NDUwNDI3MywiZXhwIjoxNjg3MDk2MjczfQ.N582OUtEe6THE30lJG_eGqZYE_DkKCUUKRyVoEiq63s'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
